@@ -5,6 +5,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About boom-boom-je </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> What's inside? </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_1: 어쩌구저쩌구 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_2: 어쩌구저쩌구 </div> 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
