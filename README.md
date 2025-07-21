@@ -7,10 +7,10 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> What's inside? </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_1: recruitment-platform-uiux-enhancement </div> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_2: bank-marketing-campaign </div> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_3: Codeit_sprint_DA_6_final_project </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> practice: airflow-practice </div>
+    - <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_1: recruitment-platform-uiux-enhancement </div> 
+    - <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_2: bank-marketing-campaign </div> 
+    - <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> project_3: Codeit_sprint_DA_6_final_project </div>
+    - <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> practice: airflow-practice </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
