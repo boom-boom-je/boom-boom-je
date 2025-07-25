@@ -69,7 +69,7 @@ Codeit Sprint DA_6
 
 ### 📚 Visualization
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-F24E1E?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
