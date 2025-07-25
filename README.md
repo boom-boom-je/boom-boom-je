@@ -11,9 +11,11 @@
 ## 🎓 Education
 
 **Dankook University**
+
 Major : **Energy Engineering**
 
 **Bootcamp**
+
 Codeit Sprint DA_6
 
 ---
