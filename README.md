@@ -1,8 +1,9 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3893cc,100:399e15&height=180&text=Welcome%20🙌&animation=&fontColor=ffffff&fontSize=60" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About boom-boom-je </h2>  
+
+
+  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
     </div>
     <div style="text-align: left;">
