@@ -24,7 +24,7 @@ Codeit Sprint DA_6
   <tr>
     <td>
       <a href="https://github.com/boom-boom-je/recruitment-platform-uiux-enhancement" target="_blank">
-        <img src="https://github.com/boom-boom-je/boom-boom-je/issues/1#issuecomment-3117527470" width="100" alt="recruitment-platform-uiux-enhancement-image">
+        <img src="https://private-user-images.githubusercontent.com/217563497/470778457-eeb65e5d-2a39-48dd-a414-1f99736c90a6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0NDU4NzcsIm5iZiI6MTc1MzQ0NTU3NywicGF0aCI6Ii8yMTc1NjM0OTcvNDcwNzc4NDU3LWVlYjY1ZTVkLTJhMzktNDhkZC1hNDE0LTFmOTk3MzZjOTBhNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQxMjEyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2Q4ZjZkYzVmYzAzZjFjYjA4MTM5MDJjMDc3MzUyMzNjMGI2ZWI1MDc3MzdiNzE2YmNhOWYwMjYxNTA1MjM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IdYEl2rnS00meuRQ2YRTyBjjYK2II8Xp8DKwwte8hYk" width="100" alt="recruitment-platform-uiux-enhancement-image">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 10px;">
