@@ -54,7 +54,7 @@ Codeit Sprint DA_6
     <td style="vertical-align: top; padding-left: 10px;">
       <strong>
         <a href="https://github.com/boom-boom-je/airflow-practice" target="_blank" style="text-decoration: none; color: #000000;">
-          🛠 Apache Airflow 사용법 실습
+          📖 Apache Airflow 사용법 실습
         </a>
       </strong><br>
       <span style="color: gray;">
