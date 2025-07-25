@@ -10,12 +10,10 @@
 
 ## 🎓 Education
 
-**Dankook University**
+**Dankook University**  
+Major : **Energy Engineering**  
 
-Major : **Energy Engineering**
-
-**Bootcamp**
-
+**Bootcamp**  
 Codeit Sprint DA_6
 
 ---
