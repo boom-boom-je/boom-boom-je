@@ -44,7 +44,29 @@ Codeit Sprint DA_6
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/boom-boom-je/airflow-practice" target="_blank">
+        <img src="https://private-user-images.githubusercontent.com/217563497/470782642-7b531d7f-7ddb-4f6a-8ab1-0365086a8aae.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0NDYwMzksIm5iZiI6MTc1MzQ0NTczOSwicGF0aCI6Ii8yMTc1NjM0OTcvNDcwNzgyNjQyLTdiNTMxZDdmLTdkZGItNGY2YS04YWIxLTAzNjUwODZhOGFhZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQxMjE1MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMWNiZWRjYWRiMjczYjNiZWI3NGU0YjkyNjZjMWYyZDFhYWVkNThkMWNjZGQzNjU5ODU5NGQxOGMwM2JiMDM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EuZYRNDZq-k8CmJT-pVx-dAJGKAmNZBIcQ9uMdLSKU4" width="100" alt="airflow-image">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      <strong>
+        <a href="https://github.com/boom-boom-je/airflow-practice" target="_blank" style="text-decoration: none; color: #000000;">
+          📊 Apache Airflow 사용법
+        </a>
+      </strong><br>
+      <span style="color: gray;">
+        I conducted a practice to learn how to use Apache Airflow.
+      </span><br><br>
+      <!-- 배지 부분을 Markdown 이미지 문법 대신 HTML <img> 태그로 변경했습니다. -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google_Cloud&logoColor=white" alt="Google_Cloud">
+      <img src="https://img.shields.io/badge/Apache_Airflow-4479A1?style=for-the-badge&logo=Apache_Airflow&logoColor=white" alt="Apache_Airflow">
+    </td>
+  </tr>
+</table>
 
 ---
 
