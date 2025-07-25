@@ -34,7 +34,7 @@ Codeit Sprint DA_6
         </a>
       </strong><br>
       <span style="color: gray;">
-        Game Impact Modeling: I used game data to quantify player performance in LoL and designed a custom MMR system.
+        By analyzing user behavior patterns, we proposed improving the recruitment platform's website.
       </span><br><br>
       <!-- 배지 부분을 Markdown 이미지 문법 대신 HTML <img> 태그로 변경했습니다. -->
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
@@ -66,6 +66,10 @@ Codeit Sprint DA_6
 ### 🔃 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📚 Visualization
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-F24E1E?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
