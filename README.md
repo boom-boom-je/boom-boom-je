@@ -98,5 +98,5 @@ Codeit Sprint DA_6
 ## 📌 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](링크)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/23c95acb4684806cb08dce595b0410bc?source=copy_link)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:wpqja461200@gmail.com)
